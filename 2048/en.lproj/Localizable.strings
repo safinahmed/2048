@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  2048
+
+  Created by Safin Ahmed on 27/04/14.
+  Copyright (c) 2014 Safin Ahmed. All rights reserved.
+*/
+"shareText" = "Check out this addictive game - http://bit.ly/1rBqTY0, just can't stop playing it";
+"wonMsg" = "YOU DID IT";
+"lostMsg" = "GAME OVER";
+"tutorialText" = "Swipe anywhere to make tiles move.\nWhen two tiles with the same number touch, they merge together and their value is added.\nReach tile 2048 to win the game.";
+"unlimitedTxt" = "UNLIMITED";
+"typeTxt" = "Game Type:";

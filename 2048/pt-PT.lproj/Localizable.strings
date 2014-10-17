@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  2048
+
+  Created by Safin Ahmed on 27/04/14.
+  Copyright (c) 2014 Safin Ahmed. All rights reserved.
+*/
+"shareText" = "Vejam este jogo viciante - http://bit.ly/1rBqTY0, não consigo parar de jogar...";
+"wonMsg" = "CONSEGUISTE";
+"lostMsg" = "PERDESTE";
+"tutorialText" = "Faça um swipe para mover as peças.\nQuando duas peças com o mesmo número se tocam eles juntam-se, e o valor deles é somado. Chega á peça 2048 para ganhar o jogo.";
+"unlimitedTxt" = "ILIMITADO";
+"typeTxt" = "Modo de Jogo:";
